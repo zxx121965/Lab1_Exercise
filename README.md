@@ -1,4 +1,5 @@
 Lab1_Exercise
 
-°¸¼þ¿´µ½Äã¾¡¿ì·¢
+Â°Â¸Â¼Ã¾Â¿Â´ÂµÂ½Ã„Ã£Â¾Â¡Â¿Ã¬Â·Â¢
 I made this change on branch1
+I made this change on branch3 via GitHub
